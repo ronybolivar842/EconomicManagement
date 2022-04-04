@@ -11,14 +11,11 @@ html {
 }
 
 html {
-  position:fixed;
+  position:relative;
   min-height: 100%;
 }
 
 body {
   margin-bottom: 60px;
-  background-color:azure;
-  font-family:Arial;
-  font-style:oblique;
  
 }
